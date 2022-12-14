@@ -7,4 +7,4 @@ import { PrismaService } from './infra/prisma.service';
   controllers: [AppController],
   providers: [PrismaService],
 })
-export class AppModule { }
+export class AppModule {}
